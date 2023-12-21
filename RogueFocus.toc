@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Rogue Focus Classic
+## Title-zhCN:|CFFFFFF00[职业]|R|CFFFFF569盗贼|R能量与连击点监控
+## Notes-zhCN:|CFFFFFF00RogueFocus|R|N在屏幕中间显示连击点与能量监控
+## Version: 1.0.4.11200
+## Author: Logan, Roadblock, Jettie
+## SavedVariables: RogueFocusConfig
+RogueFocus.xml
+RogueFocusOptions.xml
